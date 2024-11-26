@@ -1,4 +1,5 @@
 class Solution {
+//Brute Force
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n=nums.size();
